@@ -145,11 +145,11 @@ namespace _02_Variables
 
             #region klavyeden karakter girişleri
 
-            char gender;
-            Console.Write("Lütfen cinsiyet seçiniz: ");
-            gender = char.Parse(Console.ReadLine());
+            //char gender;
+            //Console.Write("Lütfen cinsiyet seçiniz: ");
+            //gender = char.Parse(Console.ReadLine());
 
-            Console.WriteLine("Seçtiğiniz cinsiyet: " + gender);
+            //Console.WriteLine("Seçtiğiniz cinsiyet: " + gender);
 
             #endregion
 
